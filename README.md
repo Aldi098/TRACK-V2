@@ -19,3 +19,18 @@ git clone https://github.com/Aldi098/TRACK-V2
 cd TRACK-V2
 
 Bash TRACK-V2.sh
+```
+## Fungsi
+```
+> Lacak lokasi menggunakan IP target
+> 60% Akurat
+> Pemograman bash
+```
+## Thank you
+```
+> Allah SWT
+> Bapak
+> Ibu
+> Kaka
+> Teman²
+```
